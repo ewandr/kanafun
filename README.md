@@ -1,4 +1,0 @@
-kanafun
-=======
-
-KanaFun database
